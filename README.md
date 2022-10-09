@@ -5,29 +5,26 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AsthaAwasthi0510" target="blank">
 Astha</a></h1>
-<h3 align="center">A passionate Web developer from Kanpur,India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Web Developer from Kanpur,India &#127470;&#127475</h3>
 
 
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://github.com/AsthaAwasthi0510" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently Working on Web Development Projects
+- 🌱  I’m currently learning JS
+- 👯  I’m looking to collaborate with other developers and designers 
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/AsthaAwasthi0510/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
 
-- 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 💬 Ask me about **Web Development and Java**
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **networkbusy0510@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
