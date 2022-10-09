@@ -26,7 +26,7 @@ Astha</a></h1>
 
 - 📫 How to reach me **networkbusy0510@gmail.com** or **https://www.linkedin.com/in/astha-awasthi-a196b3160/**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/AsthaAwasthi0510/AsthaAwasthi0510/blob/main/Astha%20Awasthi(VIT%20BHOPAL).pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
