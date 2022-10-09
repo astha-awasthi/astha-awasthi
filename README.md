@@ -18,7 +18,7 @@ Astha</a></h1>
 - 🔭 I’m currently Working on Web Development Projects
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other developers and designers 
-- ⚡ Fun fact: I am also a active listener. 
+- ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/AsthaAwasthi0510/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
 
 
