@@ -37,14 +37,7 @@ Astha</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/AsthaAwasthi0510">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		
-	   <a style="margin-left: 10px;" target="_blank" href="">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-       
-		<a style="margin-left: 10px;" target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AsthaAwasthi0510/AsthaAwasthi0510/blob/main/Astha%20Awasthi(VIT%20BHOPAL).pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
