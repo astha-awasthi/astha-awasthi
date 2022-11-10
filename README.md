@@ -24,7 +24,7 @@ Astha</a></h1>
 
 - 💬 Ask me about **Web Development and Java**
 
-- 📫 How to reach me **networkbusy0510@gmail.com** or **https://www.linkedin.com/in/astha-awasthi-a196b3160/**
+- 📫 How to reach me **networkbusy0510@gmail.com** or **https://www.linkedin.com/in/asthaawasthi/**
 
 - 📄 Know about my experiences <a href="https://github.com/AsthaAwasthi0510/AsthaAwasthi0510/blob/main/Astha%20Awasthi(VIT%20BHOPAL).pdf" target="blank">Resume</a>
 <br/>
@@ -33,7 +33,7 @@ Astha</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/astha-awasthi-a196b3160/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asthaawasthi/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/AsthaAwasthi0510">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
