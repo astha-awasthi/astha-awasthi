@@ -26,7 +26,7 @@ Astha</a></h1>
 
 - 📫 How to reach me **networkbusy0510@gmail.com** or **https://www.linkedin.com/in/asthaawasthi/**
 
-- 📄 Know about my experiences <a href="https://github.com/AsthaAwasthi0510/AsthaAwasthi0510/blob/main/Astha%20Awasthi(VIT%20BHOPAL)%20Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/astha-awasthi/astha-awasthi/blob/main/Astha%20Awasthi(VIT%20BHOPAL)%20Resume%20new%20photo.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -37,7 +37,7 @@ Astha</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/astha-awasthi">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AsthaAwasthi0510/AsthaAwasthi0510/blob/main/Astha%20Awasthi(VIT%20BHOPAL)%20Resume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/astha-awasthi/astha-awasthi/blob/main/Astha%20Awasthi(VIT%20BHOPAL)%20Resume%20new%20photo.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
